@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractals", "Fractals\Fractals.csproj", "{3ADAD8C9-8701-4462-ABA4-157B3A7A5867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADAD8C9-8701-4462-ABA4-157B3A7A5867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADAD8C9-8701-4462-ABA4-157B3A7A5867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADAD8C9-8701-4462-ABA4-157B3A7A5867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADAD8C9-8701-4462-ABA4-157B3A7A5867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29159B12-DA6F-487E-B70A-91A33F2FC042}
+	EndGlobalSection
+EndGlobal

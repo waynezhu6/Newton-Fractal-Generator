@@ -1,0 +1,13 @@
+C:\Users\Wayne\Desktop\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\Wayne\Desktop\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\Wayne\Desktop\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.csprojAssemblyReference.cache
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.cache
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Wayne\Desktop\Fractals\Fractals\bin\Debug\MathNet.Numerics.dll
+C:\Users\Wayne\Desktop\Fractals\Fractals\bin\Debug\MathNet.Numerics.xml
+C:\Users\Wayne\Desktop\Fractals\Fractals\obj\Debug\Fractals.csproj.CopyComplete
